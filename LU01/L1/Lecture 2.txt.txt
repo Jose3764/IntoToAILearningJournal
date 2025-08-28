@@ -1,0 +1,36 @@
+AI Terms:
+ 
+ 	Algorithm: A mathematical formula.
+ 
+**Bias**: Assumptions made by a model that simplify the process of learning to do its assigned task.
+
+ 
+**Black Box**: Knowing what's coming out on the outside but don't know what's happening on the inside.
+
+ 
+**Context Window**: An AI model that is trained by being sent data for what it should know.
+
+ 
+**Generative AI**: Give it a prompt and it gives the outcome.
+
+ 	Hallucination: Making something up.
+ 
+ 	Large Language Model (LLM): Works by forecasting word sequences.
+ 
+ 	Prompt Engineering: Making your prompts better.
+
+ 	Tokens: Units of data processed by AI models.
+
+ 	Tokenizer: Gives out how many tokens and characters there are.
+
+ 
+
+ 
+
+
+
+
+ 
+ 
+ 
+ 

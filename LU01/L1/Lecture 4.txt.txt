@@ -1,0 +1,31 @@
+We're gonna make a leaderboard/tier list about models.
+
+Most websites now would have their own AI bot that users can chat with.
+
+Snapchat AI probably didn't build their AI chat box and are using it from somewhere else.
+
+Most AI's are unique, written by a company, and some are just by wrappers.
+
+When you use your computer, you don't know what Windows is doing on your device.
+
+Users have the freedom to run, copy, distribute, study, change and improve the software.
+
+vscode is a free open source. You can go over it, and if there are some things you don't like about it, you could copy it and change it to your own likings.
+
+An example of free open softwares are Androids, Linux, etc.
+
+Knowing what data the AI was trained on is accessible. 
+
+Running things locally doesn't mean that it is a free open source software.
+
+Open AI still calls themselves "Open AI" but its not really open if its not a free source software.
+
+AI companies do not need to say how much electricity they use.
+
+When you talk about electricity usage with AI, it'll mostly say that "It'll get better".
+
+In the Early 1900s, Britain was building their first power plants, and they kept on building stronger power plants, so power got better and stronger through out the years.
+
+AI's don't really need any power because they're building their own power.
+
+The value of tokens have gone up.

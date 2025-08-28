@@ -1,0 +1,26 @@
+The cloud is from an open server.
+When you use ChatGPT, the power requirements are not happening on your device, its data gets sent to the server where ChatGPT is from.
+When you do things on the internet there is a carbon footprint.
+If you email your grandma, you're probably using 1.7 cents of electricity. The one paying for it is your provider such as Gmail.
+Everything you do on the internet is a carbon footprint.
+AI was trained on massive data links. When they went to go train AI, they had to go get data somewhere. 
+Companies needed a lot of data to train AI. Mostly copyright. 
+Some of the data was public information.
+Some things were open knowledge but maybe not free knowledge.
+Companies trained AI using transcripts such as the ones from the Youtube website.
+They didn't ask Youtube permission for their transcripts, because it was available for everyone on the internet.
+You have to buy a book to read it, unlike Youtube where you can watch most videos for free.
+AI companies need data to train their AI, but now people are generating data from their AI.
+AI companies do not want to train their AI using AI generated data.
+Tay was a AI chatbot from 9 years ago made by Microsoft, and they wanted to make a chatbot where you can message them.
+Someone messaged Tay to say inappropriate things and Tay would respond back the same way, which led to a disaster on Twitter.
+If you tell AI that you're seeing things that aren't real, it would agree with you.
+
+
+
+
+
+ 
+ 
+ 
+ 
