@@ -1,0 +1,8 @@
+Chain of thought prompting is how you break down a bigger prompt into smaller parts.
+
+AI has a very short memory, if you talk to it after a couple of days, it won't remember the last topic you were talking about.
+
+The prompt was simple and AI made the same prompt, better. This is how AI is getting better.
+
+Previously, AI could only do things with text. 
+

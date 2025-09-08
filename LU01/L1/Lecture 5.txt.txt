@@ -1,0 +1,16 @@
+This unit is all about GenAI. This lecture will be about writing better prompts.
+
+A prompt is a natural language text that requests the generative AI to perform a specific task.
+
+If you give an AI a prompt such as "I want to eat somewhere fancy that serves Chinese food" it'll respond back with a list of places based on that prompt.
+
+The AI is wrong sometimes and will just give you garbage knowledge.
+
+A way to start a prompt is by doing a Task first, then the Persona(Who the AI is). and the Format: Output type.
+Which is then followed by a Context. 
+A good context would be "Give me some good ideas for a birthday present. Under $30."
+A great context would be "Give me 5 ideas for a birthday present. My budget is $30. The gift is for a 29-yo who loves winter sports. And has recently switched to snowboarding from skiing."
+Reference is additional input data, ideas. 
+You then evaluate the output. 
+Then the final step is to iterate.
+Task -> Context -> Reference -> Evaluate -> Iterate -> Task.

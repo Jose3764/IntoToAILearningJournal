@@ -1,0 +1,12 @@
+AI multimedia is any AI generated format.
+
+Text to speech is when you give AI text and will generate it using a voice.
+
+Voice cloning is TTS but you use a audio sample for the TTS to use.
+
+Text to video is when you give an AI a prompt and the AI will generate a video based on the prompt you give it.
+
+Image to video is when you get a photo, and give it to AI which will then generate that photo into a video.
+
+Make sure the image you reference is high resolution so the AI can manage to detect it easier.
+

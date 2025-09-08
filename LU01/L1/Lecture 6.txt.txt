@@ -1,0 +1,10 @@
+Copy is text that markets your brain
+
+Making an AI tool to write us a schedule.
+
+The most common task people give AI is summarization.
+
+Instead of one large complex prompt, you could do a simple prompt that turns it into bits of steps, making it easier for it to succeed on the AI tool.
+
+Power went out...
+
