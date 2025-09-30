@@ -1,0 +1,6 @@
+AI can often find common errors in seconds and a human would take about an hour to figure out their mistake with the code.
+
+AI loves turning things off and inventing things. 
+
+If a code has a logic error, AI is not the best way to solve it.
+

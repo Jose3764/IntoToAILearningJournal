@@ -1,0 +1,5 @@
+A docker is a way to run software portably.
+
+On your Windows/MacBook system, you have full access to the operating system.
+
+Installing the Docker engine on our devices.
