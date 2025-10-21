@@ -1,0 +1,9 @@
+You can't use code to 3D modeling.
+
+We will be using OpenSCAD for the 3D modeling.
+
+OpenSCAD allows users to use code to create 3D models.
+
+When asking AI to give you a code for OpenSCAD, it never comes out perfect. Sometimes it doesn't even look
+like what you asked for. 
+
